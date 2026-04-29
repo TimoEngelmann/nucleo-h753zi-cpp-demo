@@ -43,8 +43,6 @@ Install and configure the tools:
 
 2. Install the [🔗STM32CubeH7 MCU Package](https://www.st.com/en/embedded-software/stm32cubeh7.html#:~:text=STM32Cube%20MCU%20Package%20for%20STM32H7%20series%20%28HAL%2C%20Low-Layer,easier%20by%20reducing%20development%20effort%2C%20time%20and%20cost.) in SMT32CubeMX
 
-3. Install the [🔗X-CUBE-AZRTOS-H7 Expansion Package](https://www.st.com/en/embedded-software/x-cube-azrtos-h7.html) in SMT32CubeMX
-
 ### STLink Upgrade Tool
 1. Install the [🔗STLink Upgrade Tool](https://www.st.com/en/development-tools/stsw-link007.html).
   
