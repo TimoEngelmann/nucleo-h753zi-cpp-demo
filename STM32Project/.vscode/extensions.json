@@ -1,0 +1,14 @@
+
+{
+  "recommendations": [
+    "ms-vscode.vscode-serial-monitor",
+    "ms-vscode.hexeditor",
+    "maziac.hex-hover-converter",
+
+    "edwinhuish.better-comments-next",
+    "jerrygoyal.shortcut-menu-bar",
+  ],
+  "unwantedRecommendations": [
+    "ms-vscode.cpptools-extension-pack"
+  ]
+}
