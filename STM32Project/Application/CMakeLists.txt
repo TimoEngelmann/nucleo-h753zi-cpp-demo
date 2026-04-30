@@ -112,7 +112,7 @@ target_link_libraries(${CMAKE_PROJECT_NAME}
 #  But we are using the methods in the C++ file application.cpp and do not need the app_threadx.c file.
 #  This code filters out the app_threadx.c file from the list of sources.
 set(EXCLUDED_SOURCES 
-    ".*app_threadx\\.c$"
+    # ".*app_threadx\\.c$"
     # Add more files here as needed
 )
 get_target_property(CURRENT_SOURCES ${CMAKE_PROJECT_NAME} SOURCES)
